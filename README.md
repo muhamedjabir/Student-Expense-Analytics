@@ -1,6 +1,6 @@
-# 📊 Student Expense Analytics Dashboard (Sept 2025 -- Feb 2026)
+#  Student Expense Analytics Dashboard (Sept 2025 -- Feb 2026)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes personal student expenses recorded from September
 2025 to February 2026 during my academic period as a day scholar at HACA
@@ -13,18 +13,17 @@ This is an end-to-end data analytics case study covering: - Data
 modeling - SQL querying - KPI analysis - Dashboard development - Insight
 generation
 
-------------------------------------------------------------------------
 
-## 🛠 Tools & Technologies Used
+
+##  Tools & Technologies Used
 
 -   MySQL -- Data storage and analysis
 -   Power BI -- Dashboard visualization
 -   Excel -- Data preparation
 -   DAX -- KPI calculations
 
-------------------------------------------------------------------------
 
-## 🗂 Dataset Description
+##  Dataset Description
 
 The dataset includes:
 
@@ -36,9 +35,8 @@ The dataset includes:
 
 Data Period: September 2025 -- February 2026
 
-------------------------------------------------------------------------
 
-## 📈 Key Business Questions Answered
+##  Key Business Questions Answered
 
 -   What is the total spending during the period?
 -   Which category contributes the most?
@@ -46,9 +44,8 @@ Data Period: September 2025 -- February 2026
 -   Which month recorded the highest spending?
 -   What are the top 5 highest expense days?
 
-------------------------------------------------------------------------
 
-## 🔎 Key Insights
+##  Key Insights
 
 -   Transport is the highest contributing expense category.
 -   Spending peaked during December 2025.
@@ -56,9 +53,9 @@ Data Period: September 2025 -- February 2026
     spikes.
 -   2025 total spending was significantly higher than early 2026.
 
-------------------------------------------------------------------------
 
-## 📊 Dashboard Features
+
+##  Dashboard Features
 
 ### Page 1 -- Overview
 
@@ -76,9 +73,9 @@ Data Period: September 2025 -- February 2026
 -   Top 5 Highest Expense Records
 -   Detailed Insights Section
 
-------------------------------------------------------------------------
 
-## 🧮 Sample SQL Highlights
+
+##  Sample SQL Highlights
 
 -   Monthly spending aggregation using GROUP BY
 -   Category percentage calculations
@@ -86,28 +83,11 @@ Data Period: September 2025 -- February 2026
 -   Category ranking using UNION
 -   View creation for reusable monthly summary
 
-------------------------------------------------------------------------
 
-## 📂 Project Structure
+
+##  Project Structure
 
 student-expense-analytics │ ├── README.md ├── SQL_queries.sql ├──
 STUDENT EXPENSE DASHBOARD.pdf └── screenshots/
 
-------------------------------------------------------------------------
-
-## 🎯 Project Outcome
-
-This project demonstrates: - Practical SQL querying skills - Data
-cleaning and transformation - KPI design thinking - Dashboard
-storytelling - Insight communication
-
-It reflects a real-world analytical workflow from raw data to
-decision-ready insights.
-
-------------------------------------------------------------------------
-
-## 👤 Author
-
-Muhamed Jabir\
-Aspiring Data Analyst\
 Focused on SQL, Power BI, and Business Intelligence Projects
